@@ -1,139 +1,159 @@
-# Hi there! 👋 I'm [Your Name]
+# Hello, I'm Om Borse! 👨‍💻
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+Enthusiast;Problem+Solver;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Software+Developer;Problem+Solver;Tech+Enthusiast;Always+Learning+%26+Growing;Building+Amazing+Things!" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="280"/>
+</div>
+
+<div align="center">
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio-link.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/om-borse)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omborse26@gmail.com)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/om_borse26)
+  
 </div>
 
 ---
 
 ## 🚀 About Me
 
-```javascript
-const developer = {
-    name: "Your Name",
-    location: "Your City, Country",
-    role: "Full Stack Developer",
-    languages: ["JavaScript", "Python", "TypeScript", "Java"],
-    frameworks: ["React", "Node.js", "Express", "Django"],
-    databases: ["MongoDB", "PostgreSQL", "MySQL"],
-    currentFocus: "Building scalable web applications",
-    funFact: "I debug with console.log() and I'm proud of it! 🐛"
+```typescript
+const omBorse = {
+    name: "Om Borse",
+    location: "India 🇮🇳",
+    education: "Computer Science Student",
+    currentRole: "Software Developer",
+    passions: ["Web Development", "Problem Solving", "Open Source"],
+    workingOn: "Full Stack Web Applications",
+    learning: ["Advanced React Patterns", "Cloud Architecture", "DevOps"],
+    askMeAbout: ["JavaScript", "React", "Node.js", "Web Development"],
+    technologies: {
+        frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+        backend: ["Node.js", "Express.js", "Python", "MongoDB"],
+        tools: ["Git", "Docker", "VS Code", "Postman"]
+    },
+    funFact: "I turn coffee into code! ☕️→💻",
+    goals2025: "Contribute to major open source projects & build scalable apps"
 };
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-### Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+### 🎨 Frontend Development
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Backend
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+### ⚙️ Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### Database & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Tools & Others
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+### 🛠️ Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=false" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Om-Borse26&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Om-Borse26&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Om-Borse26&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF" alt="Om's GitHub streak"/>
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Om-Borse26&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
 </div>
 
 ---
 
-## 🔥 Current Projects
+## 🔥 Featured Projects
 
 <div align="center">
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [🚀 Awesome Web App](https://github.com/yourusername/project1) | A full-stack web application with real-time features | React, Node.js, Socket.io |
-| [🤖 AI Assistant](https://github.com/yourusername/project2) | Machine learning powered chatbot | Python, TensorFlow, FastAPI |
-| [📱 Mobile App](https://github.com/yourusername/project3) | Cross-platform mobile application | React Native, Firebase |
+| 🚀 Project | 📝 Description | 🛠️ Tech Stack | 🔗 Links |
+|------------|----------------|----------------|----------|
+| **Portfolio Website** | Personal portfolio showcasing projects and skills | React, Tailwind CSS, Framer Motion | [Demo](https://your-portfolio.com) • [Code](https://github.com/Om-Borse26/portfolio) |
+| **E-Commerce Platform** | Full-stack e-commerce solution with admin panel | MERN Stack, Stripe API | [Demo](https://your-ecommerce.com) • [Code](https://github.com/Om-Borse26/ecommerce) |
+| **Task Management App** | Collaborative task management with real-time updates | Next.js, Socket.io, MongoDB | [Demo](https://your-taskapp.com) • [Code](https://github.com/Om-Borse26/taskmanager) |
+| **Weather Dashboard** | Beautiful weather app with location-based forecasts | React, OpenWeather API, Chart.js | [Demo](https://your-weather.com) • [Code](https://github.com/Om-Borse26/weather-app) |
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 🎯 Current Focus & Goals
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&bg_color=20232a&hide_border=true" alt="Contribution Graph" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" height="200"/>
+</div>
+
+### 🔭 What I'm working on
+- Building a comprehensive **Learning Management System**
+- Contributing to **open-source React libraries**
+- Developing **full-stack applications** with modern tech stacks
+
+### 🌱 What I'm learning
+- **Advanced React patterns** (Custom hooks, Context optimization)
+- **Cloud platforms** (AWS, Docker containers)
+- **DevOps practices** (CI/CD, automated testing)
+- **System design** principles for scalable applications
+
+### 👯 Looking to collaborate on
+- **Open source projects** in React/Node.js ecosystem
+- **Innovative web applications** that solve real problems
+- **Educational content** for aspiring developers
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Om-Borse26&theme=tokyo-night&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF6B6B&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 ---
 
-## 🎯 Current Focus
-
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
-</div>
-
-- 🔭 I'm currently working on **a revolutionary web platform**
-- 🌱 I'm currently learning **Web3 and Blockchain Development**
-- 👯 I'm looking to collaborate on **open source projects**
-- 💬 Ask me about **React, Node.js, Python, or anything tech-related**
-- ⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes!**
-
----
-
-## 🌐 Connect with Me
+## 💡 Problem Solving Stats
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Om-Borse26)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/Om_Borse26)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/om_borse26)
 
-</div>
-
----
-
-## 💻 Coding Activity
-
-<div align="center">
-  <img src="https://wakatime.com/share/@yourusername/6f5e5c3a-0e2a-4f1d-9c4b-8b3e2f1a0c2d.svg" alt="Wakatime Stats" />
 </div>
 
 ---
@@ -141,23 +161,50 @@ const developer = {
 ## 🎨 Random Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote"/>
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🎵 Coding Soundtrack
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/snake.svg" alt="Snake animation" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   
-  **Thanks for visiting! Let's connect and build something amazing together! 🚀**
+  *"Good code is like a good song - it has rhythm, structure, and makes you feel something!"* 🎶
+  
+  **Currently vibing to:** Lo-fi Hip Hop, Synthwave, and Classical Music while coding
+  
+</div>
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+  
+  **I'm always excited to connect with fellow developers, discuss tech, or collaborate on interesting projects!**
+  
+  💬 **Ask me about:** React, JavaScript, Web Development, or anything tech-related
+  
+  📧 **Reach out:** [omborse26@gmail.com](mailto:omborse26@gmail.com)
+  
+  🤝 **Open to:** Freelance projects, collaborations, and mentoring opportunities
+  
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Om-Borse26&label=Profile%20views&color=00d4ff&style=flat" alt="Profile Views"/>
   
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+  
+  **Thanks for stopping by! Let's build something amazing together! 🚀**
+  
+</div>
+
+---
+
+<div align="center">
+  <i>⭐️ From [Om-Borse26](https://github.com/Om-Borse26) with ❤️</i>
 </div>
