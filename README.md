@@ -75,29 +75,12 @@ const om = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Om-Borse26&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" height="300" alt="Activity Graph" />
 </div>
 
-## 🏆 Achievements & Highlights
-
-<div align="center">
-
-🎯 **Smart India Hackathon 2024** - Team Leader  
-📄 **3 Research Publications** - ICDSMLA, ADCIS, ACCES  
-🎓 **Google UX Design Certificate** - Professional  
-☁️ **AWS Cloud Practitioner** - Certified  
-🧠 **8.64 CGPA** - VIT Pune  
-
-</div>
-
-## 🚀 Current Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
-- 🧠 **Brain Tumor Detection & VR Visualization** - VGG19 + Unreal Engine
-- 💳 **PayFlow** - Responsive Payment Landing Page
-- 🏥 **Doctor Appointment System** - Flask + Google Calendar API
 
 ## 📫 Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/om-borse)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om-borse-592a0225b/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omborse1618@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Om-Borse26)
 
