@@ -1,7 +1,7 @@
 # Hey there! I'm Om Borse <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=BTech+Computer+Engineering+%40+VIT;Full+Stack+Developer+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A9;Hackathon+Enthusiast+%F0%9F%8F%86" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=BTech+Computer+Engineering;Full+Stack+Developer+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A9" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -76,24 +76,6 @@ const om = {
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Om-Borse26&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" height="300" alt="Activity Graph" />
 </div>
-
-## 🏆 Achievements & Highlights
-
-<div align="center">
-
-🎯 **Smart India Hackathon 2024** - Team Leader  
-📄 **3 Research Publications** - ICDSMLA, ADCIS, ACCES  
-🎓 **Google UX Design Certificate** - Professional  
-☁️ **AWS Cloud Practitioner** - Certified  
-🧠 **8.64 CGPA** - VIT Pune  
-
-</div>
-
-## 🚀 Current Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
-- 🧠 **Brain Tumor Detection & VR Visualization** - VGG19 + Unreal Engine
-- 💳 **PayFlow** - Responsive Payment Landing Page
-- 🏥 **Doctor Appointment System** - Flask + Google Calendar API
 
 ## 📫 Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 
