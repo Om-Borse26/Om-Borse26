@@ -53,8 +53,6 @@ const om = {
 
 <br/>
 
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=My%20Tech%20Stack&align=center&titleAlign=center&fontSize=20&lineCount=3&theme=github_dark&line1=java,python,c,javascript;&line2=html,css,nodejs,flask,bootstrap;&line3=mysql,mongodb,git,figma,aws;" alt="My Tech Stack" />
-
 </div>
 
 ## 📊 GitHub Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" height="35">
