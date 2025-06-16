@@ -1,152 +1,158 @@
-<!-- Header -->
+# Hi there, I'm Om Borse! 👋
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" height="300"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=4th+Year+BTech+Student;Full+Stack+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
-<h1 align="center">Hi 👋, I'm Om Borse</h1>
-<h3 align="center">4th Year BTech Student | Full Stack Developer | ML Enthusiast</h3>
+## 🚀 About Me
 
-<!-- Social Links -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/om-borse-72b400220/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:omborse262003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.instagram.com/om_borse26/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-</p>
+```javascript
+const om = {
+    location: "Maharashtra, India",
+    education: "BTech Computer Science - Final Year",
+    currentFocus: "Full Stack Development & DSA",
+    languages: ["JavaScript", "Python", "Java", "C++"],
+    frameworks: ["React", "Node.js", "Express", "Django"],
+    databases: ["MongoDB", "MySQL", "PostgreSQL"],
+    tools: ["Git", "Docker", "AWS", "Figma"],
+    currentlyLearning: ["System Design", "DevOps", "Machine Learning"],
+    goals2025: "Land a Software Engineer role at a product company",
+    funFact: "I debug with console.log() and I'm not ashamed! 🐛"
+};
+```
 
----
-
-### 👨‍💻 About Me
-
-- 🎓 Pursuing BTech in Computer Science and Engineering (Final Year)
-- 🔭 I'm currently working on **ML & Full Stack Web Development**
-- 🌱 I'm currently learning **Advanced Machine Learning and Cloud Technologies**
-- 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Python, JavaScript, React, Node.js, and Machine Learning**
-- 📫 How to reach me: **omborse262003@gmail.com**
-- ⚡ Fun fact: **I enjoy solving complex problems and playing badminton**
-
----
-
-### 🛠️ Languages and Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,python,java,cpp,git,github,vscode" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,flask,tensorflow,firebase,heroku,figma,bootstrap,tailwind,postman" />
-</p>
-
----
-
-### 📊 GitHub Stats
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Om-Borse26&show_icons=true&theme=tokyonight" alt="Om's GitHub stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Om-Borse26&layout=compact&theme=tokyonight" alt="Top Langs" height="170" />
+
+### Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Om-Borse26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Om's GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Om-Borse26&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Om-Borse26&theme=tokyonight&hide_border=true" alt="Om's GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Om-Borse26&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Om-Borse26&theme=tokyo-night&hide_border=true&area=true" alt="Om's Activity Graph" />
+</div>
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Om-Borse26&repo=your-amazing-project&theme=tokyonight&hide_border=true)](https://github.com/Om-Borse26/your-amazing-project)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Om-Borse26&repo=another-cool-project&theme=tokyonight&hide_border=true)](https://github.com/Om-Borse26/another-cool-project)
+
+</div>
+
+### 🌟 Project Highlights
+
+| Project | Description | Tech Stack | Live Demo | Repository |
+|---------|-------------|------------|-----------|------------|
+| 🎯 **Project Name 1** | Brief description of your best project | React, Node.js, MongoDB | [Live](https://your-demo-link.com) | [Code](https://github.com/Om-Borse26/project1) |
+| 🚀 **Project Name 2** | Another amazing project description | Python, Django, PostgreSQL | [Live](https://your-demo-link.com) | [Code](https://github.com/Om-Borse26/project2) |
+| 💡 **Project Name 3** | Third project with cool features | JavaScript, Express, MySQL | [Live](https://your-demo-link.com) | [Code](https://github.com/Om-Borse26/project3) |
+
+## 🏆 Achievements & Certifications
+
+- 🎓 **BTech Computer Science** - Final Year (Expected 2025)
+- 🏅 **LeetCode**: Solved 200+ problems
+- 🎯 **Competitive Programming**: Participated in multiple contests
+- 📜 **Certifications**: Add your relevant certifications here
+
+## 🌱 Currently Learning
+
+- System Design and Architecture
+- DevOps and Cloud Technologies
+- Advanced Data Structures & Algorithms
+- Machine Learning Fundamentals
+
+## 💼 Experience
+
+### 🔹 Intern at [Company Name] | [Duration]
+- Developed feature X that improved performance by Y%
+- Collaborated with cross-functional teams
+- Technologies used: React, Node.js, MongoDB
+
+### 🔹 Freelance Developer | [Duration]
+- Built responsive web applications for local businesses
+- Managed end-to-end project development
+- Technologies used: Full Stack Development
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/your-username)
+
 </div>
 
 ---
 
-### 🏆 Featured Projects
+<div align="center">
+  
+**💡 Open to opportunities in Software Development | Full Stack Development | Product Engineering**
 
-<details>
-  <summary><b>📱 Placement Portal</b></summary>
-  <br/>
-  <p>A comprehensive web application for managing campus placements with features for students, recruiters, and administrators.</p>
-  <p><b>Tech Stack:</b> React, Node.js, Express, MongoDB</p>
-  <p><b>Key Features:</b></p>
-  <ul>
-    <li>Student profile management and job applications</li>
-    <li>Recruiter dashboards and interview scheduling</li>
-    <li>Admin control panel for managing placement activities</li>
-    <li>Real-time notifications and analytics</li>
-  </ul>
-  <p><a href="https://github.com/Om-Borse26/Placement-Portal">View Project</a></p>
-</details>
+*"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
-<details>
-  <summary><b>🤖 AI Movie Recommender</b></summary>
-  <br/>
-  <p>A machine learning-based movie recommendation system that suggests films based on user preferences and viewing history.</p>
-  <p><b>Tech Stack:</b> Python, Flask, TensorFlow, React</p>
-  <p><b>Key Features:</b></p>
-  <ul>
-    <li>Content-based and collaborative filtering</li>
-    <li>User preference learning and adaptation</li>
-    <li>Interactive UI for exploring recommendations</li>
-    <li>Integration with movie APIs for detailed information</li>
-  </ul>
-  <p><a href="https://github.com/Om-Borse26/Movie-Recommender">View Project</a></p>
-</details>
+![Profile Views](https://komarev.com/ghpvc/?username=Om-Borse26&color=blueviolet&style=flat-square&label=Profile+Views)
 
-<details>
-  <summary><b>📊 Data Visualization Dashboard</b></summary>
-  <br/>
-  <p>An interactive dashboard for visualizing complex datasets with customizable charts and analytics.</p>
-  <p><b>Tech Stack:</b> React, D3.js, Node.js, Express</p>
-  <p><b>Key Features:</b></p>
-  <ul>
-    <li>Real-time data processing and visualization</li>
-    <li>Multiple chart types and customization options</li>
-    <li>Data filtering and comparative analysis</li>
-    <li>Export functionality for reports</li>
-  </ul>
-  <p><a href="https://github.com/Om-Borse26/Data-Viz-Dashboard">View Project</a></p>
-</details>
-
-<details>
-  <summary><b>🔐 Secure File Sharing Platform</b></summary>
-  <br/>
-  <p>A web application for secure file sharing with end-to-end encryption and access controls.</p>
-  <p><b>Tech Stack:</b> JavaScript, Node.js, Express, MongoDB, AWS S3</p>
-  <p><b>Key Features:</b></p>
-  <ul>
-    <li>End-to-end encryption for file security</li>
-    <li>Granular access controls and permissions</li>
-    <li>File versioning and restoration</li>
-    <li>Secure sharing via temporary links</li>
-  </ul>
-  <p><a href="https://github.com/Om-Borse26/Secure-Share">View Project</a></p>
-</details>
+</div>
 
 ---
 
-### 🎓 Education
+### 🐍 Contribution Snake
 
-- **Bachelor of Technology (B.Tech)** in Computer Science and Engineering  
-  Dr. Babasaheb Ambedkar Technological University, Lonere, Maharashtra  
-  *2021 - 2025*
-
-- **Higher Secondary Certificate (HSC)**  
-  Yashwantrao Chavan Junior College, Kolhapur, Maharashtra  
-  *2019 - 2021*
-
----
-
-### 📜 Certifications
-
-- **Machine Learning Specialization** - Coursera (Stanford University)
-- **Full Stack Web Development** - Udemy
-- **Advanced JavaScript** - Codecademy
-- **Python for Data Science** - IBM
-
----
-
-### 🌐 Connect & Collaborate
-
-- 💼 Open to internship and job opportunities
-- 🤝 Looking to collaborate on innovative projects
-- 📚 Interested in open-source contributions
-- 🔍 Exploring new technologies and frameworks
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Om-Borse26/Om-Borse26/output/snake.svg" alt="Snake animation" />
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Om-Borse26&style=flat-square&color=blue" alt="Profile views"/>
-  <p>Thanks for visiting my profile! Let's connect and create something amazing together. 😊</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </div>
