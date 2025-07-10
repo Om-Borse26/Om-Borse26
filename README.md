@@ -67,21 +67,65 @@ const om = {
 
 </div>
 
-## 📊 GitHub Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" height="35">
+## 📊 GitHub Analytics <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" height="35">
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Om-Borse26&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Om-Borse26&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  
+  <!-- GitHub Stats with 3D Effect -->
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Om-Borse26&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Om-Borse26&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+  
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Om-Borse26&theme=tokyonight&hide_border=true" alt="Om's GitHub Streak" />
+  
+  <!-- Enhanced Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Om-Borse26&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=79C0FF" alt="Om's GitHub Streak" />
+  
 </div>
 
-## 📈 Activity Overview <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>
+<div align="center">
+  
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Om-Borse26&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="GitHub Trophies"/>
+  
+</div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Om-Borse26&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" height="300" alt="Activity Graph" />
+  
+  <!-- 3D Contribution Graph -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Om-Borse26&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&custom_title=🚀%20Total%20Contributions%20This%20Year" height="150"/>
+  
+</div>
+
+<div align="center">
+  
+  <!-- Animated GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Om-Borse26&repo=your-main-repo&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Pinned Repo"/>
+  
+</div>
+
+## 🔥 Activity Heatmap <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>
+
+<div align="center">
+  
+  <!-- 3D Contribution Snake -->
+  <img src="https://raw.githubusercontent.com/Om-Borse26/Om-Borse26/output/snake.svg" alt="Snake animation" />
+  
+</div>
+
+<div align="center">
+  
+  <!-- Enhanced Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Om-Borse26&theme=high-contrast&hide_border=true&area=true&custom_title=🚀%20Coding%20Activity%20Graph&color=58A6FF&line=58A6FF&point=FF6B6B&bg_color=0D1117&area_color=58A6FF" height="400" alt="Activity Graph" />
+  
+</div>
+
+<div align="center">
+  
+  <!-- Metrics with cool styling -->
+  <img src="https://metrics.lecoq.io/Om-Borse26?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&activity=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&config.timezone=Asia%2FKolkata" alt="GitHub Metrics"/>
+  
 </div>
 
 ## 📫 Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
