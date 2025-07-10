@@ -9,7 +9,6 @@
 </div>
 
 ## 🚀 About Me
-
 ```javascript
 const om = {
     university: "Vishwakarma Institute of Technology",
@@ -22,7 +21,6 @@ const om = {
 ```
 
 ## 🛠️ Tech Arsenal
-
 <div align="center">
 
 ### 💻 Programming Languages
@@ -52,6 +50,20 @@ const om = {
 </p>
 
 <br/>
+</div>
+
+## 🧩 LeetCode Progress <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
+<div align="center">
+  
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Om-Borse26?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/Om-Borse26)
+
+</div>
+
+<div align="center">
+  
+![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
+[![LeetCode user Om-Borse26](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Problems%20Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FOm-Borse26&logo=leetcode&logoColor=yellow)](https://leetcode.com/Om-Borse26/)
 
 </div>
 
@@ -79,6 +91,7 @@ const om = {
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/om-borse-592a0225b)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omborse1618@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Om-Borse26)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)]([https://leetcode.com/Om-Borse26](https://leetcode.com/u/Om_Borse/))
 
 </div>
 
