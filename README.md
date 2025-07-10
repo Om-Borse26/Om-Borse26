@@ -78,6 +78,13 @@ const om = {
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Om-Borse26&theme=tokyonight&hide_border=true" alt="Om's GitHub Streak" />
 </div>
 
+<div align="center">
+  
+  <!-- Snake Animation -->
+  <img src="https://raw.githubusercontent.com/Om-Borse26/Om-Borse26/output/snake.svg" alt="Snake animation" />
+  
+</div>
+
 ## 📈 Activity Overview <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>
 
 <div align="center">
