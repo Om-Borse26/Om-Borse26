@@ -80,12 +80,12 @@ const om = {
 
 <div align="center">
   
-<div align="center">
-  
-  <!-- Snake Animation -->
-  <img src="https://raw.githubusercontent.com/Om-Borse26/Om-Borse26/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-  
-</div>
+  <!-- Enhanced Snake Animation with smooth transitions and better colors -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Om-Borse26/Om-Borse26/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Om-Borse26/Om-Borse26/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Om-Borse26/Om-Borse26/output/github-contribution-grid-snake.svg">
+  </picture>
   
 </div>
 
