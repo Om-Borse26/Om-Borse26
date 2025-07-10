@@ -63,7 +63,7 @@ const om = {
 <div align="center">
   
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
-[![LeetCode user Om-Borse26](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Problems%20Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FOm-Borse26&logo=leetcode&logoColor=yellow)](https://leetcode.com/Om-Borse26/)
+[![LeetCode user Om-Borse26](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Problems%20Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FOm-Borse26&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/Om_Borse/)
 
 </div>
 
