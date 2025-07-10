@@ -55,15 +55,45 @@ const om = {
 ## 🧩 LeetCode Progress <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 <div align="center">
-  
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Om_Borse?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/Om_Borse/)
 
+### 🏆 Coding Journey Stats
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Om_Borse?theme=dark&font=Fira%20Code&ext=heatmap&animation=true" />
 </div>
 
+<br/>
+
+### 💡 Problem Solving Achievements
 <div align="center">
-  
-![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
-[![LeetCode user Om_Borse](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Problems%20Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FOm_Borse&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/Om_Borse/)
+  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Problems%20Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FOm_Borse&logo=leetcode&logoColor=yellow" />
+</div>
+
+<br/>
+
+### 📊 Detailed Analytics
+<div align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=1f1f1f&color=00ff88&label=Easy&query=easySolved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FOm_Borse&logo=leetcode&logoColor=green" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=1f1f1f&color=ff8800&label=Medium&query=mediumSolved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FOm_Borse&logo=leetcode&logoColor=orange" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=1f1f1f&color=ff0000&label=Hard&query=hardSolved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FOm_Borse&logo=leetcode&logoColor=red" />
+</div>
+
+<br/>
+
+### 🔥 Current Streak & Rating
+<div align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=yellow&label=Rating&query=rating&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FOm_Borse&logo=leetcode&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=blue&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FOm_Borse&logo=leetcode&logoColor=blue" />
+</div>
+
+<br/>
+
+### 🎯 Quick Links
+<div align="center">
+  <a href="https://leetcode.com/u/Om_Borse/" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Profile-Visit%20LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</div>
 
 </div>
 
@@ -81,7 +111,24 @@ const om = {
 <div align="center">
   
   <!-- Snake Animation -->
-  <img src="https://raw.githubusercontent.com/Om-Borse26/Om-Borse26/output/snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Om-Borse26/Om-Borse26/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Om-Borse26/Om-Borse26/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Om-Borse26/Om-Borse26/output/github-contribution-grid-snake.svg">
+  </picture>
+  
+  <!-- Alternative: If above doesn't work, use this -->
+  <!--
+  <img src="https://raw.githubusercontent.com/Om-Borse26/Om-Borse26/output/github-snake.svg" alt="Snake animation" />
+  -->
+  
+  <!-- GIF Version (more compatible) -->
+  <br/><br/>
+  <img src="https://raw.githubusercontent.com/Om-Borse26/Om-Borse26/output/github-contribution-grid-snake.gif" alt="Snake animation GIF" width="100%" />
+  
+  <!-- Fallback message if animations don't load -->
+  <br/>
+  <sub>🐍 Contributions snake eating my commits!</sub>
   
 </div>
 
