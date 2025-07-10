@@ -56,7 +56,7 @@ const om = {
 
 <div align="center">
   
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Om-Borse26?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/Om-Borse26)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Om-Borse26?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/Om_Borse/)
 
 </div>
 
