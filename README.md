@@ -13,9 +13,9 @@
 const om = {
     university: "Vishwakarma Institute of Technology",
     degree: "BTech Computer Engineering",
-    cgpa: "8.72 📈",
+    cgpa: "8.94 📈",
     location: "Pune, Maharashtra 🇮🇳",
-    currentFocus: "VR + AI Projects & Problem Solving 🔥",
+    currentFocus: "AI + Cloud Projects & Problem Solving 🔥",
     goals: "Software Engineer at a product company 💼"
 };
 ```
