@@ -15,8 +15,8 @@ const om = {
     degree: "BTech Computer Engineering",
     cgpa: "8.94 📈",
     location: "Pune, Maharashtra 🇮🇳",
-    currentFocus: "AI + Cloud Projects & Problem Solving 🔥",
-    goals: "Software Engineer at a product company 💼"
+    currentFocus: "Agentic AI, Open Source Contributions & Hackathons 🔥",
+    goals: "AI/Software Engineer at a product company 💼"
 };
 ```
 
@@ -46,10 +46,33 @@ const om = {
 
 ### 🧠 Currently Exploring
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unreal,tensorflow,aws" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes" />
 </p>
 
 <br/>
+</div>
+
+## 🌟 Open Source Contributions
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <b><a href="https://github.com/openai/openai-agents-python/pull/3724">OpenAI Agents Python SDK</a></b>
+        <br/>
+        <img src="https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github&logoColor=white" />
+        <br/>
+        <i>Merged core bug fix enforcing strict Pydantic validation for Realtime Handoffs in the official OpenAI Agents SDK.</i>
+      </td>
+      <td align="center" width="50%">
+        <b><a href="https://github.com/run-llama/llama_index/pull/22195">LlamaIndex</a></b>
+        <br/>
+        <img src="https://img.shields.io/badge/Approved-2ea44f?style=flat-square&logo=github&logoColor=white" />
+        <br/>
+        <i>Contributed 'raise_on_error' behavior to LLM path extractors in the Property Graph framework for better error handling.</i>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## 🧩 LeetCode Progress <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
@@ -99,7 +122,7 @@ const om = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/om-borse-592a0225b)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/om-borse)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omborse1618@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Om-Borse26)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Om_Borse/)
@@ -110,7 +133,7 @@ const om = {
 
 <div align="center">
   
-**💡 Open to Software Development Opportunities | Full Stack | AI/ML | VR**
+**💡 Open to Software Development Opportunities | Full Stack | Agentic AI | Cloud**
 
 <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%" height="20%"/>
 
