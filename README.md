@@ -47,6 +47,12 @@
     </tr>
     <tr>
       <td align="center" colspan="2">
+        <br>
+        <img src="https://img.shields.io/badge/Agentic%20AI-0D1117?style=for-the-badge&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/RAG-0D1117?style=for-the-badge&logo=databricks&logoColor=white" />
+        <img src="https://img.shields.io/badge/Deep%20Learning-0D1117?style=for-the-badge&logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/LLM%20Evaluation-0D1117?style=for-the-badge&logo=google-gemini&logoColor=white" />
+        <br><br>
         RAG, Agentic AI, MCP, LangSmith, LLM Evaluation, Prompt Engineering, Multi Agent Systems, Deep Learning
       </td>
     </tr>
