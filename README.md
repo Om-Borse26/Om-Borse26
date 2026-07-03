@@ -43,6 +43,14 @@
       </td>
     </tr>
     <tr>
+      <td align="center" colspan="2"><b>Artificial Intelligence & AI Engineering</b></td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        RAG, Agentic AI, MCP, LangSmith, LLM Evaluation, Prompt Engineering, Multi Agent Systems, Deep Learning
+      </td>
+    </tr>
+    <tr>
       <td align="center"><b>Cloud & DevOps</b></td>
       <td align="center"><b>Databases</b></td>
     </tr>
