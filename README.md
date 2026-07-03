@@ -98,8 +98,15 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Om-Borse26&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Om-Borse26&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Om-Borse26&theme=tokyonight" alt="GitHub Stats" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Om-Borse26&theme=tokyonight" alt="Top Languages" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Om-Borse26&theme=tokyo-night&hide_border=true&area=true&custom_title=GitHub%20Activity%20Graph" alt="Activity Graph" />
 </div>
 
 <div align="center">
