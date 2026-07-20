@@ -76,12 +76,19 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="100%">
+      <td align="center" width="50%">
         <b><a href="https://github.com/openai/openai-agents-python/pull/3724">OpenAI Agents Python SDK</a></b>
         <br/>
         <img src="https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github&logoColor=white" />
         <br/>
         <i>Merged core bug fix enforcing strict Pydantic validation for Realtime Handoffs in the official OpenAI Agents SDK.</i>
+      </td>
+      <td align="center" width="50%">
+        <b><a href="https://github.com/run-llama/llama_index/pull/22195">LlamaIndex</a></b>
+        <br/>
+        <img src="https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github&logoColor=white" />
+        <br/>
+        <i>Merged core feature adding strict error propagation (raise_on_error) to Property Graph LLM Extractors.</i>
       </td>
     </tr>
   </table>
